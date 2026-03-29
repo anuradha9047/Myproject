@@ -67,7 +67,7 @@ class RailwayReservation extends Reservation {
     }
 }
 
-// Main class to test the program
+
 public class Main {
     public static void main(String[] args) {
         ResortReservation resort = new ResortReservation("R1010", "Riya", "2025-05-10", 101);
